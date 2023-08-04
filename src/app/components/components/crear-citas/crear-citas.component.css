@@ -1,0 +1,17 @@
+label {
+  font-weight: 600;
+}
+
+.card {
+  margin: 0 40px;
+}
+
+.badge {
+  font-size: 18px;
+  color: white;
+  background-color: crimson;
+  display: flex;
+  align-items: center;
+  margin-bottom: 4px;
+  justify-content: center;
+}
